@@ -1,0 +1,6 @@
+framework module Pods_PlaygroundDevelopementDemo {
+  umbrella header "Pods-PlaygroundDevelopementDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
